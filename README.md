@@ -1,7 +1,6 @@
 # House Prices: Advanced Regression Techniques
 
-This repository contains the submission notebook for the Kaggle competition [House Prices: Advanced Regression Techniques]
-(https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The objective was to get some familiarity with the 
+This repository contains the submission notebook for the Kaggle competition [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The objective was to get some familiarity with the 
 [Light GBM](https://lightgbm.readthedocs.io/en/latest/index.html) model using [Bayesian Optimization](https://github.com/fmfn/BayesianOptimization)
 for parameter tuning.
 
